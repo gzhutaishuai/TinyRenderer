@@ -6,10 +6,6 @@
 
 1.Bresham算法画直线(避免了浮点型的运算)。
 
-![Uploading image.png…]()
-
-
-
 2.古老版本单线程下如何画三角形。
 
 3.基本的z-buffer算法。
